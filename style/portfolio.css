@@ -160,3 +160,54 @@ main{
     text-align: center;
     margin-top: 50px;
 }
+/* footer section */
+
+footer{
+    display: flex;
+    gap: 50px;
+    padding: 130px 230px;
+
+}
+.footer-coloumn{
+    width: 50%;
+}
+.footer-des{
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.footer-icon-size{
+    width: 24px;
+    height: 24px;
+}
+.footericon{
+    margin-top: 30px;
+    gap: 24px;
+}
+footer input[type="text"] ,footer input[type="email"] {
+    width: 100%;
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    padding: 10px 30px;
+    border: 0;
+    font-size: 16px;
+    font-weight: normal;
+    margin-bottom: 24px;
+
+}
+footer textarea{
+    width: 100%;
+    height: 180px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    padding: 10px 30px;
+    border: 0;
+    font-size: 16px;
+    font-weight: normal;
+    margin-bottom: 24px;
+    
+}
