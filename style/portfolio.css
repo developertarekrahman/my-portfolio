@@ -126,3 +126,37 @@ main{
     padding: 30px;
     margin-top: 50px;
 }
+/* section 3 */
+.sec3titile{
+    font-size: 30px;
+    font-weight: bold;
+}
+.sec3subtitle{
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.sec3sub{
+    font-size: 20px;
+    font-weight:600;
+    margin-top: 10px;
+    color: #757575;
+}
+.sec3des{
+    font-size: 18px;
+    font-weight:normal;
+    color:  #757575;
+    margin: 20px 0;
+}
+.section-3 h3{
+    margin-bottom: 120px;
+
+}
+.colourm-part{
+    display: flex;
+    gap: 20px;
+}
+.downloadcv{
+    text-align: center;
+    margin-top: 50px;
+}
