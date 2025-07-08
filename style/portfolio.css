@@ -26,6 +26,16 @@
     border-radius: 5px;
     border: none;
 }
+.btn-secondary{
+    background: none;
+    color:black;
+    padding: 18px 35px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px solid #FD6E0A;
+    
+}
 .section-title{
     font-size: 35px;
     font-weight: bold;
